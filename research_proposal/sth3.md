@@ -1,0 +1,7 @@
+| S. No. | Paper Title | Author(s) | Year | Results | Research Gap |
+|---------|-------------|------------|------|---------|--------------|
+| 11 | Cultural Orientation and the Effectiveness of Perceived Social Support | Shelton et al. | 2017 | Collectivistic cultural values enhanced the positive effects of perceived social support on mental health. | Did not focus on university students or self-compassion. |
+| 12 | Perceived Social Support and Subjective Happiness Among Undergraduate Students | Ee et al. | 2026 | Higher perceived social support increased subjective happiness among undergraduate students. | Did not investigate psychological distress or self-compassion. |
+| 13 | Interpersonal Social Support and Depression Among Undergraduate Students During COVID-19 | Basak & Sinha | 2020 | Greater interpersonal social support reduced depression among undergraduate students. | Did not examine moderating mechanisms influencing this relationship. |
+| 14 | Social and Institutional Support Among Social Work Students | Stanley & Mettilda Bhuvaneswari | 2016 | Supportive social and institutional environments improved resilience and coping among students. | Did not include self-compassion or psychological distress measures. |
+| 15 | Self-Compassion as a Mediator Between Perceived Social Support and Psychological Well-Being | Tannous-Haddad et al. | 2024 | Perceived social support increased psychological well-being through higher levels of self-compassion. | Examined mediation rather than moderation. |
