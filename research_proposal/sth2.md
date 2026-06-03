@@ -1,0 +1,7 @@
+| S. No. | Paper Title | Author(s) | Year | Results | Research Gap |
+|---------|-------------|------------|------|---------|--------------|
+| 6 | Self-Compassion, Shame, Guilt, Anxiety, and Depression | Dehshiri | 2024 | Higher self-compassion reduced shame and guilt, which in turn decreased anxiety and depression. | Focused on intrapersonal mechanisms only. |
+| 7 | Online Self-Compassion Intervention Among Indian Students | Jain et al. | 2025 | Online self-compassion intervention improved emotional well-being and reduced psychological distress among Indian students. | Did not examine the interaction between self-compassion and social support. |
+| 8 | Self-Compassion, Internet Addiction, Aggression, and Psychological Well-Being | Iyer et al. | 2022 | Self-compassion reduced the negative effects of internet addiction and improved psychological well-being. | Moderating factors such as social support were not investigated. |
+| 9 | Psychological Well-Being and Self-Esteem Among Higher Education Students in West Bengal | Hossain et al. | 2025 | Psychological resources, including self-esteem, positively influenced student well-being. | Did not include self-compassion and social support simultaneously. |
+| 10 | Perceived Social Support, Coping Strategies, and Psychological Distress During COVID-19 | Rathakrishnan et al. | 2022 | Greater perceived social support improved coping abilities and reduced psychological distress. | Did not examine self-compassion as a related variable. |
